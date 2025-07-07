@@ -1,4 +1,4 @@
-# a-history-of-teeth **A History of Teeth**
+# **A History of Teeth**
 In this work I explore teeth as a record of human experience. I delve into the sensual and emotional world they reveal. I also try to look beyond human perception by studying plaque bacteria and machine vision.
 ## Contents
 This repository includes:
